@@ -16,9 +16,9 @@ donde se cocinaba este tipo de pasta en láminas.
  -------- 
 A todo el mundo le encanta la lasaña y nuestra sencilla receta es muy fácil de hacer: la pasta y la salsa se entrelazan perfectamente sin mucho esfuerzo de su parte. Solamente asegúrese de mantener bajo el calor para que la pasta no se cueza de más y el fondo no se queme. Puede preparar la salsa antes. Simplemente recaliente y continúe con la receta.
 
-| Tiempos
-| ----- 
-| 
+ ### Tiempos
+ ----- 
+
 - Tiempo de preparación: 1 hora
 - Tiempo total: 1 hora y 30 minutos
 - Porciones: 6 
