@@ -11,6 +11,34 @@ donde se cocinaba este tipo de pasta en láminas.
 
 ![](https://github.com/jdserranoc/grupo-01-automatas/blob/jose_arturo/images/lasa%C3%B1a.jpeg?raw=true)
 
+## Ingredientes
+
++ 1 cucharada de aceite de oliva o vegetal
+
++ 1 cebolla grande, picada
+
++ 1 diente de ajo pelado, picado finamente o pasado por el picador/planchador de ajos
+
++ 2 calabacines (italiano) medianos, con los extremos cortados, cortados en cubos
+
++ 1 cucharita de albahaca u orégano seco
+
++ 1 lata de tomates cortados (28 onzas), incluyendo el líquido
+
++ 1 ½ tazas de agua
+
++ 2 tazas de hojas frescas de espinacas, picadas toscamente
+
++ 8 lámina de lasaña (que no se tenga que hervir primero) partidas por la mitad
+
++ ¼ taza de queso ricota
+
++ ¼ taza de queso parmesano rallado
+
++ ¼ taza de queso mozarela o de Monterrey Jack rallado
+
++ ½ taza de hojas frescas de albahacas picadas
+
  ## Comienzo  
 A todo el mundo le encanta la lasaña y nuestra sencilla receta es muy fácil de hacer: la pasta y la salsa se entrelazan perfectamente sin mucho esfuerzo de su parte. Solamente asegúrese de mantener bajo el calor para que la pasta no se cueza de más y el fondo no se queme. Puede preparar la salsa antes. Simplemente recaliente y continúe con la receta.
 
