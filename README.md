@@ -11,6 +11,9 @@ donde se cocinaba este tipo de pasta en láminas.
 
 ![](https://github.com/jdserranoc/grupo-01-automatas/blob/jose_arturo/images/lasa%C3%B1a.jpeg?raw=true)
 
+ ## Comienzo  
+A todo el mundo le encanta la lasaña y nuestra sencilla receta es muy fácil de hacer: la pasta y la salsa se entrelazan perfectamente sin mucho esfuerzo de su parte. Solamente asegúrese de mantener bajo el calor para que la pasta no se cueza de más y el fondo no se queme. Puede preparar la salsa antes. Simplemente recaliente y continúe con la receta.
+
 ## Ingredientes
 
 + 1 cucharada de aceite de oliva o vegetal
@@ -57,9 +60,6 @@ donde se cocinaba este tipo de pasta en láminas.
 7. Recaliente la sartén a fuego bajo, tápela y continúe cocinando hasta que el queso se haya derretido y la pasta quede blanda cuando la pique con la punta de un cuchillo, aproximadamente 20 minutos. Espolvoree las hojas de albahaca. Apague el fuego y deje que repose por 10 minutos.
 
 8. Sirva de inmediato o tápelo y refrigere hasta por 2 días.
-
- ## Comienzo  
-A todo el mundo le encanta la lasaña y nuestra sencilla receta es muy fácil de hacer: la pasta y la salsa se entrelazan perfectamente sin mucho esfuerzo de su parte. Solamente asegúrese de mantener bajo el calor para que la pasta no se cueza de más y el fondo no se queme. Puede preparar la salsa antes. Simplemente recaliente y continúe con la receta.
 
  ### Tiempos
 - Tiempo de preparación: 1 hora
