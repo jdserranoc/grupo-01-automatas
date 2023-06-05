@@ -11,6 +11,24 @@ donde se cocinaba este tipo de pasta en láminas.
 
 ![](https://github.com/jdserranoc/grupo-01-automatas/blob/jose_arturo/images/lasa%C3%B1a.jpeg?raw=true)
 
+## Utensilios de cocina
+
++ Cucharas medidoras
+
++ Cuchillo afilado (un adulto debe usarlo)
+
++ Tabla para picar/cortar
+
++ Taza medidora
+
++ Abrelatas
+
++ Rallador cuadrado (un adulto debe usarlo)
+
++ Sartén grande con tapa  (10 pulgadas/25,4 cm)
+
++ Espátula resistente al calor
+
 ## Ingredientes
 
 + 1 cucharada de aceite de oliva o vegetal
